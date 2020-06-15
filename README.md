@@ -8,7 +8,7 @@
 Project titled "Large Numbers Arithmetic" as part of the Computer Architecture 2 course.
 	
 ## Authors
-Damian Chrzanowski
-Filip Sołdon
+Damian Chrzanowski <br />
+Filip Sołdon <br />
 
 Wrocław 2020
