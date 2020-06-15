@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Development environment and tools used](#environment)
+* [Development environment and tools used](#development-environment-and-tools-used)
 * [Authors](#authors)
 
 ## General info
