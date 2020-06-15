@@ -5,7 +5,7 @@
 * [Authors](#authors)
 
 ## General info
-Project titled "Large Numbers Arithmetic" as part of the Computer Architecture 2 course.
+Project titled "Arithmetic of Large Numbers" as part of the Computer Architecture 2 course.
 	
 ## Authors
 Damian Chrzanowski <br />
